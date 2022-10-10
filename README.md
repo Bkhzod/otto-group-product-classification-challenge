@@ -22,5 +22,7 @@ You must submit a csv file with the product id, all candidate class names, and a
 
 # My result 
 Loss score in train.csv - 0.4897
+
 Loss score in test.csv:
+
 ![Untitled-1](https://user-images.githubusercontent.com/113719546/194912915-6a588953-2d63-45ff-90ff-090fcf874965.jpg)

@@ -19,3 +19,8 @@ Submissions are evaluated using the multi-class logarithmic loss. Each product h
 ## Submission Format
 You must submit a csv file with the product id, all candidate class names, and a probability for each class. The order of the rows does not matter. The file must have a header and should look like the following:
 ![Untitled-1](https://user-images.githubusercontent.com/113719546/194911126-4dddeb09-1506-45d7-9085-b41302456ff3.jpg)
+
+# My result 
+Loss score in train.csv - 0.4897
+Loss score in test.csv:
+![Untitled-1](https://user-images.githubusercontent.com/113719546/194912915-6a588953-2d63-45ff-90ff-090fcf874965.jpg)

@@ -1,4 +1,5 @@
  # Otto group product classification
+ https://www.kaggle.com/competitions/otto-group-product-classification-challenge/overview
  ## Datasets
  sampleSubmission.csv 
  
